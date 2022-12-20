@@ -1,3 +1,5 @@
+import turtle
+
 p1 = turtle.Turtle()
 p1.penup()
 p1.shape('square')
